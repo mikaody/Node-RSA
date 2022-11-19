@@ -1,0 +1,17 @@
+{
+    "name": "node-rsa",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "create-keys": "node create-data",
+        "encrypt-data": "node encrypt-data",
+        "decrypt-data": "node decrypt-data",
+        "dev": "nodemon app",
+        "start": "node app",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
